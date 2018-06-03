@@ -5,7 +5,7 @@ So when you looking for the offical images please go to
 
 
 ## Debian versions
-| Version | Code name | Release date | Support | Docker images | Dockerfiles
+| Version | Name | Released | Support | Docker images | Dockerfiles
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 7 | Wheezy | 2013-05-04 | [End of LTS](https://www.debian.org/News/2018/20180601) | containerstack/debian:wheezy <br> containerstack/debian:wheezy-slim <br> containerstack/debian:wheezy-backports | [Sources](https://github.com/containerstack/docker-debian/tree/master/amd64/wheezy)
 | 8	| Jessie | 2015-04-26 | June 30, 2020 | containerstack/debian:jessie <br> containerstack/debian:jessie-slim <br> containerstack/debian:jessie-backports | [Sources](https://github.com/containerstack/docker-debian/tree/master/amd64/jessie)
