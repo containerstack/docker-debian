@@ -1,7 +1,7 @@
 # Debian base images for Docker
 
 This repo is based on the offical one over at https://github.com/debuerreotype/docker-debian-artifacts <br>
-So when you looking for the offical images please go to
+So when you looking for the offical images please go to that repo
 
 
 ## Debian versions
